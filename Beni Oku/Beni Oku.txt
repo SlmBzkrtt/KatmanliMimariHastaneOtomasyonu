@@ -1,0 +1,3 @@
+Hocam bu klasör içindeki bu hata çýkar ise evet'e basýnca program çalýþýyor.
+
+Program sýkýntý olur ise rar dosyasýný masaüstüne çýkartýp deneyiniz.
